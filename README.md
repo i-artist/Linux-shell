@@ -5,7 +5,7 @@
 
 
 
-### [1.1初识Linux](https://github.com/ZHONG-he art/Linux-shell/tree/master/Linux/%E7%AC%AC%E4%B8%80%E7%AB%A0)
+### [1.1初识Linux](https://github.com/ZHONG-heart/Linux-shell/tree/master/Linux/%E7%AC%AC%E4%B8%80%E7%AB%A0)
 * Linux简介
 * Linux VS Windows
 * 关于Linux的一些评价
