@@ -54,3 +54,26 @@ Linux发行版非常多，部分原因是因为其源代码和版权都开放，
 [《c语言中文网》](http://c.biancheng.net/linux_tutorial/10/)
 
 [《维基百科》](https://zh.wikipedia.org/wiki/Linux)
+
+
+### 附：工欲善其事，必先利其器。
+
+学习Linux，首先需要有Linux环境才可以。以Centos为例，ISO镜像文件下载请移步[Centos ISO](https://www.runoob.com/linux/linux-install.html)
+
+另外我推荐同学们用虚拟机或者docker的方式来学习。这种环境搭建起来比较方便快速。
+Windows系统的虚拟机可以选择VMware，Mac系统的虚拟机可以选择Parallels。
+如果选择docker的话，首先要从dockerhub先拉取一个Centos的镜像
+```
+docker pull centos
+```
+启动镜像
+```
+docker run -it -d --name centos_container centos /bin/bash
+```
+进入容器
+```
+docker exec -it centos_container bash
+```
+到这里你就可以开始使用Linux命令了。
+
+docker更多用法，请移步[docker官网](https://www.docker.com/)
