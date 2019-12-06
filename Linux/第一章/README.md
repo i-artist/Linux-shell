@@ -56,7 +56,7 @@ Linux发行版非常多，部分原因是因为其源代码和版权都开放，
 [《维基百科》](https://zh.wikipedia.org/wiki/Linux)
 
 
-### 附：工欲善其事，必先利其器。
+### 附：工欲善其事，必先利其器
 
 学习Linux，首先需要有Linux环境才可以。以Centos为例，ISO镜像文件下载请移步[Centos ISO](https://www.runoob.com/linux/linux-install.html)
 
