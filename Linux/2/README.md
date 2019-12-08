@@ -1,10 +1,10 @@
 ### 系统目录结构
 
 当我们登录我们的系统后，你可以进入系统的根目录，输入 `cd /` ,然后在当前命令窗口下输入命令 `ls` ,你就会看到如下所示：
-![image](../images/Linux-ls.jpg)
+![image](../images/Linux-2-ls.jpg)
 
 树状目录结构：
-![image](../images/Linux-directory.jpg)
+![image](../images/Linux-2-directory.jpg)
 
 ### 主要的目录清单以及解释
 
