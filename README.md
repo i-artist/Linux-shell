@@ -5,9 +5,11 @@
 
 
 
-### [1.1初识Linux](https://github.com/ZHONG-heart/Linux-shell/tree/master/Linux/%E7%AC%AC%E4%B8%80%E7%AB%A0)
+### [1.初识Linux](https://github.com/ZHONG-heart/Linux-shell/tree/master/Linux/%E7%AC%AC%E4%B8%80%E7%AB%A0)
 * Linux简介
 * Linux VS Windows
 * 关于Linux的一些评价
 * 如何去学习
 * 附：工欲善其事，必先利其器
+
+### [2.了解系统目录结构]
