@@ -1,11 +1,11 @@
 ### 系统目录结构样例
 
 当我们登录我们的系统后，你可以进入系统的根目录，输入 `cd /` ,然后在当前命令窗口下输入命令 `ls` ,你就会看到如下所示：
-![image](../images/Linux-2-ls.jpg)
+![image](https://github.com/ZHONG-heart/Linux-shell/blob/master/Linux/images/Linux-2-ls.jpg)
 
 树状目录结构：
 
-![image](../images/Linux-2-directory.jpg)
+![image](https://github.com/ZHONG-heart/Linux-shell/blob/master/Linux/images/Linux-2-directory.jpg)
 
 ### 目录清单以及解释
 
@@ -79,7 +79,7 @@
 
   > `/usr`目录包含用户使用的应用程序和文件，而不是系统使用的应用程序和文件。例如，非必需应用程序位于`/usr/bin`目录中，而不是`/bin`目录中；非必需系统管理二进制文件位于`/usr/sbin`目录中，而不是`/sbin`目录中。每个库都位于`/usr/lib`目录中。`/usr`目录还包含其他目录–例如，与体系结构无关的文件（例如下图）位于`/usr/share`中。
   默认情况下，/ usr / local目录是本地编译的应用程序安装到的目录–这样可以防止它们破坏系统的其余部分
-  ![image](../images/Linux-2-usr-dir.jpg)
+  ![image](https://github.com/ZHONG-heart/Linux-shell/blob/master/Linux/images/Linux-2-usr-dir.jpg)
 * `/usr/bin` 系统用户使用的应用程序（其它的可执行命令）。
 * `/usr/sbin` 超级用户使用的比较高级的管理程序和系统守护程序。
 
@@ -104,7 +104,7 @@ mkdir docs public
 #### 创建父目录
 现在，我们将了解如何创建父目录。有时，当您要创建目录时，其父目录或目录可能不存在。在这种情况下，mkdir发出如下错误消息
 
-![image](../images/Linux-2-mkdir.jpg)
+![image](https://github.com/ZHONG-heart/Linux-shell/blob/master/Linux/images/Linux-2-mkdir.jpg)
 
 如上图所示，在这种情况下，可以为mkdir命令指定-p选项。它会为您创建所有必需的目录
 ```
@@ -147,7 +147,7 @@ mv olddir newdir
 #### 查看当前文件目录下的 文件或目录
 可以使用`ls`查看当前目录下的 工作目录/文件的列表，使用-a选项可以列出所有文件，使用-l查看详细信息。
 
-![image](../images/Linux-2-ls-al.jpg)
+![image](https://github.com/ZHONG-heart/Linux-shell/blob/master/Linux/images/Linux-2-ls-al.jpg)
 
 ### 参考资料
 [《The Linux Directory Structure, Explained》](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
